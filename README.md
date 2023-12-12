@@ -1,2 +1,3 @@
 # project_2-
 The program aims to simulate the matching process within a dating application, demonstrating the complexity of determining compatibility while considering the nuanced nature of individual preferences and potential mismatches in mutual interest.
+The algorithm considers mutual preferences between users to rank potential matches in order of compatibility. However, it introduces a twist by acknowledging that someone's top choice might not reciprocate their interest, leading to the need for a secondary list of potential matches who might be interested in the user despite not being their primary choice.
